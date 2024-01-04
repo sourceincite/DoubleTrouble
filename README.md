@@ -412,5 +412,5 @@ java DoubleTrouble <target> <connectback:port> [outgoing ip]
 ## References
 
 - [https://support.inductiveautomation.com/hc/en-us/articles/18333051904653](https://support.inductiveautomation.com/hc/en-us/articles/18333051904653)
-- [ZDI-23-1046/](https://www.zerodayinitiative.com/advisories/ZDI-23-1046/)
-- [ZDI-23-1047/](https://www.zerodayinitiative.com/advisories/ZDI-23-1047/)
+- [ZDI-23-1046](https://www.zerodayinitiative.com/advisories/ZDI-23-1046/)
+- [ZDI-23-1047](https://www.zerodayinitiative.com/advisories/ZDI-23-1047/)
