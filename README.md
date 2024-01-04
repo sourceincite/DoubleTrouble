@@ -2,7 +2,7 @@
 
 - **CVSS: 9.8, [(AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?calculator&version=3.0&vector=(AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H))**
 - **Written by [Steven Seeley](https://twitter.com/steventseeley) and [Rocco Calvi](https://twitter.com/tecr0c) of Incite Team**
-- **Vendor Advisory: [https://support.inductiveautomation.com/hc/en-us/articles/18333051904653--Tech-Advisory-Regarding-the-Security-Advisories-Published-by-the-ZDI-on-8-August-2023](https://support.inductiveautomation.com/hc/en-us/articles/18333051904653--Tech-Advisory-Regarding-the-Security-Advisories-Published-by-the-ZDI-on-8-August-2023)**
+- **Vendor Advisory: [https://support.inductiveautomation.com/hc/en-us/articles/18333051904653](https://support.inductiveautomation.com/hc/en-us/articles/18333051904653)**
 
 ## Vulnerable Versions
 
